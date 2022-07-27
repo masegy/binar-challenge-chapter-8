@@ -1,0 +1,22 @@
+{
+    "name": "binar-challenge-8",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app.js"
+    },
+    "keywords": [],
+    "author": "Augyeris Lioga Seandrio",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "mysql2": "^2.3.0",
+        "pg": "^7.17.1",
+        "pg-hstore": "^2.3.3",
+        "sequelize": "^5.22.4",
+        "swagger-ui-express": "^4.1.6"
+    }
+}
